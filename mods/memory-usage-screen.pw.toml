@@ -1,0 +1,16 @@
+filename = 'memoryusagescreen-forge-mc1.20-1.9.0.jar'
+name = 'Memory Usage Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e0ae786d1a881dd7ab73cf55e1978825238cedfd394b801af688baedf8103face21dc521a0edef52f17337cc7777a6f8b01e26c21aa50c1c664dfbc6b3c1d028'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/n9mFA0ax/versions/wA4MsDrt/memoryusagescreen-forge-mc1.20-1.9.0.jar'
+
+[update.modrinth]
+mod-id = 'n9mFA0ax'
+version = 'wA4MsDrt'
