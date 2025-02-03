@@ -1,0 +1,12 @@
+name = "testnfpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d274baa439c55a916e3e57614bdf076d6884b5e13916c3c3e0bf2a44edadb98d"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
