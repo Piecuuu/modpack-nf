@@ -1,0 +1,16 @@
+filename = 'antixray-forge-1.4.6+1.20.1.jar'
+name = 'AntiXray'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '91837b95ac75e6365813a9fdc76c1f9a5d83f26a277901f7268f9063b6b16bb15513bc5e9b135f2ab161bc0cee9f1e16f1ff4cd2d17f34f2b4c4cdc15a7ce601'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sml2FMaA/versions/ruAUEszF/antixray-forge-1.4.6%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'sml2FMaA'
+version = 'ruAUEszF'

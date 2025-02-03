@@ -1,0 +1,16 @@
+filename = 'plasmovoice-forge-1.20.1-2.1.2.jar'
+name = 'Plasmo Voice'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '67436b8b15533cc2c67e44288d543853a67c50ab5b928d545b34b793174b378075a51f9626bdaaeaee88eb0e0360912960dece4cfbd97671c9e828ec155739b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bZhdhsH/versions/2myH3vs2/plasmovoice-forge-1.20.1-2.1.2.jar'
+
+[update.modrinth]
+mod-id = '1bZhdhsH'
+version = '2myH3vs2'

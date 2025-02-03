@@ -1,0 +1,16 @@
+filename = 'CreateFullyAutomated.jar'
+name = 'Create: Fully Automated'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e5bde3e68c8f181156c53ac79c03cb50dcb17964c18cae352ecf1e3bdf4847f5a74d607ac960afa8ca1bd2933fc4284239bf5953463a9c084f9cd7617dda04ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8f6jkgAa/versions/uuH3uLoD/CreateFullyAutomated.jar'
+
+[update.modrinth]
+mod-id = '8f6jkgAa'
+version = 'uuH3uLoD'
